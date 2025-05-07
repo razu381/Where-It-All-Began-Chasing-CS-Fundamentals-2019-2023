@@ -1,4 +1,4 @@
-# Where It All Began – Chasing CS Fundamentals (2019–2024)
+# Where It All Began – Chasing CS Fundamentals (2019–2023)
 
 This repository is a personal archive of code and memories from 2019 to 2024—a journey filled with curiosity, detours, late nights, and growth. It marks my attempt to truly understand computer science fundamentals, even when life pulled me in different directions.
 
